@@ -1,0 +1,219 @@
+{
+    "name": "MUTHU-MD-TS..✨",
+    "description": "Whatsapp User BOT Created By TS",
+    "logo": "https://i.ibb.co/WGGxrdZ/TS.jpg",
+    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
+    "repository": "https://github.com/user123ja/MUTHU-MD-TS-V2",
+    "website":   "https://www.youtube.com/channel/UCBi1evgI3DI3pwC_H5zK0kg",
+    "success_url": "https://www.youtube.com/channel/UCBi1evgI3DI3pwC_H5zK0kg",
+    "stack": "container",
+     "env": {
+            "MD_SESSION": {
+            "description": "",
+            "required": true
+             },
+            "NO_ONLINE": {
+            "description": "",
+            "required": true,
+             "value": "false"    
+             },
+            "ANTI_BOT": {
+            "description": "",
+            "value": "false" ,    
+            "required": true
+             },
+            "ONLY_GROUP": {
+            "description": "",
+            "value": "false" ,    
+            "required": true
+             },
+             "REMOVE_BG_API_KEY": {
+            "description": "",
+            "required": true
+             },
+            "OWN_NAME": {
+            "description": "",
+            "value": "MUTHU-TS" ,
+            "required": true
+             },
+             "OWN_NUMBER": {
+            "description": "",
+            "value": "94789166455" ,
+            "required": true
+             },
+       
+            "AUTO_REACT": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+             },
+           
+           "URL_1NAME": {
+            "description": "",
+            "value": "YOUTUBE" ,
+            "required": true
+      },
+           "URL_1LINK": {
+            "description": "",
+            "value": "https://www.youtube.com/channel/UCBi1evgI3DI3pwC_H5zK0kg" ,
+            "required": true
+      },
+     "URL_2NAME": {
+            "description": "",
+            "value": "Whatsapp" ,
+            "required": true
+      },
+       "URL_2LINK": {
+            "description": "",
+            "value": "Wa.me/94789166455" ,
+            "required": true
+      },
+       "FOOTER": {
+            "description": "",
+            "value": "MUTHU-MD-TS..✨" ,
+            "required": true
+      },
+     "ANTI_LINK": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+      },
+       "CAPTION": {
+            "description": "",
+            "value": "MUTHU-MD-TS..✨" ,
+            "required": true
+      },
+       "INBOX_BLOCK": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+      },
+       "INBOX_BLOCK_MSG": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+      "ALIVE_MESSAGE": {
+            "description": "",
+            "value": "default", 
+            "required": true
+      },
+      "ALIVE_LOGO": {
+            "description": "",
+            "value": "https://telegra.ph/file/9e419ec409836fb6bd331.jpg" ,
+            "required": true
+      },
+      "DEPLOYER": {
+            "description": "",
+            "value": "AQUA USER" ,
+            "required": true
+      },
+       "SONG_DOWN": {
+            "description": "",
+            "value": "*Downloading your song...✨*" ,
+            "required": true
+      }, 
+        "SONG_UP": {
+            "description": "",
+            "value": "*Uploading your song...✨*" ,
+            "required": true
+      },
+          "VIDEO_DOWN": {
+            "description": "",
+            "value": "*Downloading your video...✨*" ,
+            "required": true
+      },
+          "VIDEO_UP": {
+            "description": "",
+            "value": "*Uploading your video...✨*" ,
+            "required": true
+      },
+          "FILE_DOWN": {
+            "description": "",
+            "value": "*Downloading your file...✨*" ,
+            "required": true
+      },
+          "FILE_UP": {
+            "description": "",
+            "value": "*Uploading your file...✨*" ,
+            "required": true
+      },
+          "STIC_WM": {
+            "description": "",
+            "value": "MUTHU-MD-TS..✨" ,
+            "required": true
+      },
+          "WORK_TYPE": {
+            "description": "",
+            "value": "public" ,
+            "required": true
+      },
+         "SUDO": {
+            "description": "",
+            "value": "" ,
+            "required": false
+      },
+         "LANGUAGE": {
+            "description": "",
+            "value": "EN" ,
+            "required": true
+      },
+         "HEROKU": {
+            "description": "",
+            "value": "true" ,
+            "required": true
+      },
+         "HEROKU_API_KEY": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "HEROKU_APP_NAME": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "BAN_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "ADD_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+        "PROMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "DEMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "MUTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "UNMUTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+        "KICKME_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      }  
+        
+     },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
