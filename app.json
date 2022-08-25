@@ -1,5 +1,5 @@
 {
-    "name": "MUTHU-MD-TS..✨",
+    "name": "MUTHU-MD-TS",
     "description": "Whatsapp User BOT Created By TS",
     "logo": "https://i.ibb.co/WGGxrdZ/TS.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
@@ -70,7 +70,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "MUTHU-MD-TS..✨" ,
+            "value": "MUTHU-MD-TS.." ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "MUTHU-MD-TS..✨" ,
+            "value": "MUTHU-MD-TS.." ,
             "required": true
       },
        "INBOX_BLOCK": {
