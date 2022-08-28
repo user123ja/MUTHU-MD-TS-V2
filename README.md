@@ -6,7 +6,7 @@ This project is still being tested
     
   ### QR  Repl.it CLICK THIS
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@user123ja/MUTHU-MD-TS-V2?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@user123ja/MUTHU-MD-V21?v=1)
 
 ## Bot deploy  CLICK THIS
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/user123ja/MUTHU-MD-TS-V2)
